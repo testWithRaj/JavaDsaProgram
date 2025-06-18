@@ -15,6 +15,7 @@ public class setExamples {
 		numbers.add(23);
 		numbers.add(89);
 		numbers.add(25);
+		numbers.add(49);
 		
 		System.out.println(numbers);
 		
