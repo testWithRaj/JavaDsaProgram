@@ -9,8 +9,13 @@ public class BasicsOfArray {
 
 		
 		 int numbers [] = {1,2,3,4,5};
-		 
+		//Array index starts from 0 
 		System.out.println(numbers[4]);
+		
+	 for ( int i=1;i<numbers.length;i++)
+	 {
+		 System.out.println(numbers[i]);
+	 }
 
 }
 }
