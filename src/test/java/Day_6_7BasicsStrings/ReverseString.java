@@ -1,4 +1,4 @@
-package Day_6_BasicsStrings;
+package Day_6_7BasicsStrings;
 
 public class ReverseString {
 

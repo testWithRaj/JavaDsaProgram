@@ -1,4 +1,4 @@
-package patternPrinting;
+package patternPrinting_9_day;
 
 public class InvertedNumberRight {
 
