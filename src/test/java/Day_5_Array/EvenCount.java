@@ -10,6 +10,7 @@ public class EvenCount {
 		{
 			if(arr[i]%2==0)
 			{
+				System.out.println(arr[i]);
 		count++;
 			}
 		}
