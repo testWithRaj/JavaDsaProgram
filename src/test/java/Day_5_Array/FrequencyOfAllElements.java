@@ -3,7 +3,7 @@ package Day_5_Array;
 public class FrequencyOfAllElements {
 
     public static void main(String[] args) {
-        int arr[] = {1, 2, 3, 2, 4, 2, 5};
+        int arr[] = {1, 2, 3, 2, 4, 2, 9};
 
         // Outer loop picks each element
         for(int i = 0; i < arr.length; i++) {
